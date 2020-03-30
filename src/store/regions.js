@@ -1,0 +1,36 @@
+const regions = [
+  'Beograd',
+  'SevernoBački',
+  'SrednjeBanatski',
+  'SevernoBanatski',
+  'JužnoBanatski',
+  'ZapadnoBački',
+  'JužnoBački',
+  'Sremski',
+  'Mačvanski',
+  'Kolubarski',
+  'Podunavski',
+  'Braničevski',
+  'Šumadijski',
+  'Pomoravski',
+  'Borski',
+  'Zaječarski',
+  'Zlatiborski',
+  'Moravički',
+  'Raški',
+  'Rasinski',
+  'Nišavski',
+  'Toplički',
+  'Pirotski',
+  'Jablanički',
+  'Pčinjski',
+  'Kosovski',
+  'Pećki',
+  'Prizrenski',
+  'KosovskoMitrovački',
+  'KosovskoPomoravski',
+];
+
+// needed for inserting populating firestore regions babel is not enabled for node
+module.exports = regions;
+// export default regions;
