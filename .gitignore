@@ -27,4 +27,4 @@ yarn-error.log*
 
 #firebase credentials
 /src/firebase.js
-/src/serviceAccountKey.json
+/src/serviceAccountKey.json 
