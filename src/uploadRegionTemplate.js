@@ -1,4 +1,4 @@
-// need to uncoment module.exports in this file, babel is not enabled for node
+// need to uncomment 'module.exports' in './store/regions', babel is not enabled for node
 // eslint-disable-next-line import/no-extraneous-dependencies
 const firestoreService = require('firestore-export-import');
 const regions = require('./store/regions');

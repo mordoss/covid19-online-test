@@ -24,3 +24,7 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
+
+#firebase credentials
+/src/firebase.js
+/src/serviceAccountKey.json
